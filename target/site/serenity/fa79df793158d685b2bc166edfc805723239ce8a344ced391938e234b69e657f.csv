@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Post CRUD test","This will get all posts users","SUCCESS","2023-01-02T21:40:36.402Z[Europe/London]","0.0","5.18"
+"Post CRUD test","This test will Create a new Post","SUCCESS","2023-01-02T21:40:41.665Z[Europe/London]","0.0","1.57"
+"Post CRUD test","This will verify that post user was added","SUCCESS","2023-01-02T21:40:43.237Z[Europe/London]","0.0","0.43"
+"Post CRUD test","This test will Update the title","SUCCESS","2023-01-02T21:40:43.674Z[Europe/London]","0.0","0.82"
+"Post CRUD test","This test will Delete the post","SUCCESS","2023-01-02T21:40:44.499Z[Europe/London]","0.0","1.22"
